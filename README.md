@@ -1,13 +1,15 @@
 # V-Env
-#How to work with virtual environments in python.
+## How to work with virtual environments in python.
 
-1. To create Virtual Environment
-2. python3 -m venv env              #name of choice, however as per pip8 keep -> venv/env
+### 1. To create Virtual Environment
+''' bash
+python3 -m venv env              #name of choice, however as per PIP 8 keep -> venv/env
 
-3. Activation of Virtual Environment
+#### 2. Activation of Virtual Environment
+'''
 source env/bin/activate
 
-4. Deactivate Virtual Environment
+#### 3.Deactivate Virtual Environment
 deactivate
 
 
